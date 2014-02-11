@@ -4,7 +4,7 @@
 % vlfeat toolbox is borrowed here to support this code -- extracting SIFT
 % features from images.
 %
-%
+% Current version directly compares SIFT for each pair of RF, no Pyramid-Error Distance is adopted.
 %
 % Shu Kong (Aimery)
 % aimerykong@gmail.com
