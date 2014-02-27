@@ -11,7 +11,7 @@
 %
 %
 % For details, readers are suggested to refer to the following report:
-%       Shu Kong, "Collaborative Receptive Field Learning", arXiv, 2014
+%       Shu Kong, etal., "Collaborative Receptive Field Learning", arXiv, 2014
 %
 % 
 % The code is writen by
