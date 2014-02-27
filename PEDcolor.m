@@ -1,7 +1,7 @@
 function distance = PEDcolor(RFA, RFB, alpha, beta, gamma)
-% demo -- show the PED of a pair of receptive fields
+% demo -- show the PED of a pair of receptive fields, here the color info is used at one level.
 %
-% ICML2014 paper
+%   Shu Kong, etal., "Collaborative Receptive Field Learning", arXiv, 2014
 %
 %
 %   Shu Kong (Aimery)
